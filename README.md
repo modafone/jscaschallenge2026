@@ -1,4 +1,3 @@
-# jscaschallenge2026
 # JSCAS AI Challenge 2026
 
 ## テーマ
