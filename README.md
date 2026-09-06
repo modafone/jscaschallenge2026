@@ -9,5 +9,5 @@
 - [**Advanced Challenge**：手術動画内の各工程シーンの認識](https://github.com/modafone/jscaschallenge2026/tree/main/advanced_challenge)
 
 ## 期限
-- **参加エントリー**締め切り：??/??
-- **Challenge提出物の提出**締め切り：??/??
+- **参加エントリー**締め切り：11月2日
+- **Challenge提出物の提出**締め切り：11月9日
